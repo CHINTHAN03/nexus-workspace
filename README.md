@@ -1,4 +1,4 @@
-# Propulsion Workspace 
+# Nexus Intelligence Workspace 
 
 ![Java](https://img.shields.io/badge/Java-21-orange.svg)
 ![Javalin](https://img.shields.io/badge/Javalin-6.1.3-blue.svg)
