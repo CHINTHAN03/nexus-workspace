@@ -36,13 +36,16 @@ Propulsion Workspace is a high-performance, lightweight project collaboration an
 ![Task Details & Comments](docs/task-details.png)
 *The slide-over task panel featuring real-time discussion feeds, status tracking, and assignment details.*
 
-### Task Intelligence Engine
-![Intelligence Engine](docs/intelligence-engine.png)
-*The task creation module showcasing the custom algorithm's optimal assignee recommendation based on active team workloads.*
+### Advanced Features: Intelligence Engine & Admin Console
+<p align="center">
+  <img src="docs/intelligence-engine.png" width="48%" alt="Intelligence Engine">
+  &nbsp;
+  <img src="docs/admin-console.png" width="48%" alt="Admin Console">
+</p>
+<p align="center">
+  <em><strong>Left:</strong> The Task Intelligence Engine recommending assignees based on active workload. <strong>Right:</strong> The Admin Security Console for system-wide management.</em>
+</p>
 
-### Admin Security Console
-![Admin Console](docs/admin-console.png)
-*The secure administrative dashboard restricted to Admin roles, utilized for user directory management and system-wide data purges.*
 ##  Architecture & Tech Stack
 
 The application is built with a clean separation of concerns, utilizing a custom-built REST API that communicates with a NoSQL database, consumed entirely by a vanilla frontend.
